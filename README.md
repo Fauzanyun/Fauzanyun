@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fauzanyun
+- 👋 Hi, I’m @FauzanDiasKhairi
 - 👀 I’m interested in assembly code
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
